@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="new_task_title">New Task</string>
+    <string name="update_task_title">Update Task</string>
+</resources>
